@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "130916158135",
+    "project_id": "joblystapi-bdc7e",
+    "storage_bucket": "joblystapi-bdc7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130916158135:android:b5aa67ff9fcd091b17db32",
+        "android_client_info": {
+          "package_name": "com.example.joblystapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130916158135-vm9ale2tdkaje5nm3op4crs19iso1kuq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.joblystapp",
+            "certificate_hash": "e8ac6838c8e8da0cc9a48d4f422a729b17f38ba9"
+          }
+        },
+        {
+          "client_id": "130916158135-ago6j34tdfian5v7qtoj7btndk1gqt2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQg1IYBO_9hP4pKQsB-guzC0bk6XTGZng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130916158135-ago6j34tdfian5v7qtoj7btndk1gqt2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
